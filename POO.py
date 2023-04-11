@@ -1,5 +1,5 @@
 #CLASES Y METODOS,Objetos
-
+#por Juan de jesus Tovar Reyes
 class Coche():
 
     ruedas=4
